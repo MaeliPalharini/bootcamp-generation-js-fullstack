@@ -47,4 +47,3 @@ if (nomeCargo !== undefined) {
   console.log("Cargo: " + nomeCargo);
   console.log("Salário: R$ " + novoSalario.toFixed(2));
 }
-

@@ -61,4 +61,3 @@ if (nomeProduto !== undefined) {
     console.log(`\nProduto: ${nomeProduto}`);
     console.log(`Valor total: R$ ${valorTotal.toFixed(2)}`);
 }
-

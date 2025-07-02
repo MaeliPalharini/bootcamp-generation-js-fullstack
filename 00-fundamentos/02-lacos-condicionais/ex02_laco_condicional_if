@@ -24,3 +24,4 @@ if(numero >= 0) {
 }
 
 console.log(`O número ${numero} é ${paridade} e ${positivoOuNegativo}!`);
+

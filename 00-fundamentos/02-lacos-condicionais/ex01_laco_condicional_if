@@ -18,3 +18,4 @@ if (soma > valorC) {
 }
 
 console.log(mensagemComparacao + "\n");
+
