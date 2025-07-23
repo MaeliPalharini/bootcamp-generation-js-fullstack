@@ -34,8 +34,8 @@ Organização por módulo/atividade:
 bootcamp-generation-js-fullstack/
 
     ├─ 00-fundamentos/ ← Lógica e JS básico
-    ├─ 01-front-end/ ← HTML, CSS, DOM e React
-    ├─ 02-back-end/ ← Node.js, Express e bancos SQL
+    ├─ 01-back-end/ ← Node.js, Express e bancos SQL
+    ├─ 02-front-end/ ← HTML, CSS, DOM e React
     └─ 03-fullstack-sprints/ ← Projetos integradores
 
 📄 Licença
